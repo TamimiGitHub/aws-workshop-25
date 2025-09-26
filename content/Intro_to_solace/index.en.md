@@ -1,5 +1,5 @@
 ---
-title: "Intro To Solace"
+title: "Intro to the Solace platform"
 weight: 2
 ---
 
