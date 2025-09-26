@@ -9,4 +9,4 @@ In this workshop, you'll gain a foundational understanding of the [Solace Agent 
 
 By the end of this workshop, you'll be equipped to get started with Solace Agent Mesh, including learning the building blocks, installation prerequisites, running built-in agents, and connecting different types of agents. You'll understand how to develop custom agents, leverage plugins and tools, and build multi-agent systems that harness the power of event mesh and standardized protocols for robust, collaborative AI solutions.
 
-![SAM Arch](img/SAM_arch.png)
+![SAM Arch](static/img/SAM_arch.png)
