@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "Building Agentic Systems with Solace Agent Mesh and AWS Bedrock"
 weight: 1
 ---
 
